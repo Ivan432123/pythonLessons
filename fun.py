@@ -17,7 +17,6 @@
 name=input()
 age=input()
 def hi(name, age):
-    result = name + " " + age
-    return result
+    print("Меня зовут " + name + " мне " + age + " лет")
+
 h = hi(name, age)
-print(h)
