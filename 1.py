@@ -5,3 +5,4 @@ print("Здарова!")
 num_1 = 3
 num_2 = 4
 print(num_1 + num_2)
+print(num_ + num_2)
