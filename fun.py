@@ -20,4 +20,3 @@ def hi(name, age):
     print("Меня зовут " + name + " мне " + age + " лет")
 
 h = hi(name, age)
-main
