@@ -18,7 +18,7 @@
 
 family_3 = {"Папа":"Vasya", "Мама":"Olga", "Сын":"Semen","Дочь":"Dasha"}
 
-print(family_3["Ïàïà"])
+print(family_3["Папа"])
 
 
 family_3 = {"Папа":"Vasya", "Мама":"Olga", "Сын":"Semen","Дочь":"Dasha"}
