@@ -1,3 +1,6 @@
+
+"""Учусь создавать классы"""
+
 class Auto():
     """Модель авто"""
 
@@ -23,9 +26,11 @@ auto = Auto("Honda", 1997)
 auto_1 = Auto("Mazda", 1999)
 auto_2 = Auto("Merzedes-Benz", 2003)
 auto_3 = Auto("Audi", 2000)
+auto_4 = Auto("Toyota Mark 2", 1999)
 # print(auto.model)
 
 auto.good()
 auto_1.bad()
 auto_2.good()
 auto_3.avg()
+auto_4.bad()
